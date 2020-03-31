@@ -1,0 +1,5 @@
+sys,arch,cpu-clock,isa,l1d_assoc,l1d_cache_lines,l1d_shared_by_threads,l1d_size,l2_assoc,l2_cache_lines,l2_shared_by_threads,l2_size,l3_assoc,l3_cache_lines,l3_shared_by_threads,l3_size,mem-size,mem-type,mem_clock,num-cpus,num-procs,PS,runtime
+desktop,IntelCorei56500_DDR31600_4GB,3.2,X86_64,8,64,1,32,4,64,1,256,12,64,4,6144,4,DDR3,1600,4,4,sqcif,36615
+server,IntelXeonE52620_DDR41866_16GB,2.4,X86_64,8,64,1,32,8,64,1,256,8,64,12,15360,16,DDR4,1866,12,12,sqcif,38886
+laptop,IntelCorei76500U_DDR31600_8GB,3,X86_64,8,64,1,32,8,64,1,256,16,64,4,4096,8,DDR3,1600,2,2,sqcif,42270
+cep002,InteCorei78700_DDR42666_16GB,3.2,X86_64,8,64,1,32,4,64,1,256,16,64,6,12288,16,DDR4,2666,6,6,sqcif,28864
