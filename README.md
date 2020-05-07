@@ -20,3 +20,12 @@ to its deterministic nature as compared to physical systems.
 Moreover, in physical systems, prediction accuracy of memorybound
 algorithms is higher as compared to compute-bound
 algorithms due to manufacturer variability in processors.
+
+# Folders
+##  Dataset_CSV: Contains input dataset
+## Codes: Contain all Experimental Codes
+## data: Contains saved models and cross-folds data, which is available as a link to google drive. 
+## Images: Contains images used for Paper
+## Results_CSV: Contains Metircs Scores for each Dataset application
+## Results_Plots_Code: Contains code used for plotting and saving images for paper
+
