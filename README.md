@@ -38,7 +38,7 @@ algorithms due to manufacturer variability in processors.
 12. tracking_lab.csv
 
 
-### Simulated Dataset using Gem5": 
+### Simulated Dataset using Gem5: 
 1. dijsktra.csv
 2. matmul.csv
 3. montecarlocalcpi.csv
