@@ -20,7 +20,24 @@ to its deterministic nature as compared to physical systems.
 Moreover, in physical systems, prediction accuracy of memorybound
 algorithms is higher as compared to compute-bound
 algorithms due to manufacturer variability in processors.
+## Citation
 
+
+If you find this repo useful for your research, please consider citing our paper:
+
+```bibtex
+@INPROCEEDINGS{9198512,
+  author={A. {Mankodi} and A. {Bhatt} and B. {Chaudhury} and R. {Kumar} and A. {Amrutiya}},
+  booktitle={2020 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)}, 
+  title={Evaluating Machine Learning Models for Disparate Computer Systems Performance Prediction}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/CONECCT50063.2020.9198512}}
+
+```
+For any enquiries, please contact the main authors.
 # Folders
 ##  Dataset_CSV: Folder Containing input dataset: Please contact the authors for full dataset. 
 ### Physical Systems Dataset: 
